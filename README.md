@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/💼_MCHJ_Omal_Retail-0e7490?style=for-the-badge" />
 </p>
 
-<a href="mailto:info@kunleek.uz"><img src="https://img.shields.io/badge/Email-info@kunleek.uz-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ibomir600@gmail.com"><img src="https://img.shields.io/badge/Email-ibomir600@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
