@@ -127,7 +127,7 @@ class Ibrohim:
 
 ### 🤝 Hamkorlik va loyihalar uchun ochiqman!
 
-<a href="mailto:info@kunleek.uz"><img src="https://img.shields.io/badge/Bog'lanish-info@kunleek.uz-0e7490?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:ibomir600@gmail.com"><img src="https://img.shields.io/badge/Hamkorlik_uchun-ibomir600@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 *"Ma'lumotsiz qaror — bu shunchaki taxmin."* 📊
 
